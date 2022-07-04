@@ -1,2 +1,4 @@
 Text in branch-1-test file
 Modification in branch-conflict
+Modification in branch-conflict-2
+
